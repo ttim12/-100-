@@ -5,9 +5,6 @@ int main () {
 }
 
 
-
-
-
 /*printf("%6s%s\n","*","*");
 	printf("%6s%s\n", "*", "*");
 	for (int i = 0; i < 2; i++) {
